@@ -1,3 +1,2 @@
-fast-dash
+streamlit
 embedchain==0.0.30
-gunicorn
